@@ -8,7 +8,7 @@
 
 ## Coding Profiles
 - LeetCode: sandeep(https://leetcode.com/sandeep1923/)
-- HackerRank: sandeep(https://www.hackerrank.com/HackerRankUserName)
+- HackerRank: sandeep(https://www.hackerrank.com/@sandeep_1923ce11)
 
 ## Placement Module
 1. [DS I](https://github.com/sandeep1923/Pre-Placement-Module-2023/tree/main/DS%20I)
